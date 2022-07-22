@@ -7,9 +7,10 @@
 
 body {
   font-family: 'architects daughter', cursive;
-  padding: 1rem;
+  margin: 0 auto;
+  width: 75%;
+  padding-top: 20px;
   background-color: rgb(245, 231, 225);
-  height: 100vh;
 }
 
 /* header */
@@ -74,9 +75,8 @@ main > * {
     flex-direction: column;
     align-items: center;
   }
-}
-.airplane-card {
-  width: 100%;
+  .airplane-card {
+  width: 90%;
 }
 
 header {
@@ -86,5 +86,7 @@ header {
 
 
 }
+}
+
 
 /* YOUR CODE HERE */
